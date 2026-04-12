@@ -42,9 +42,11 @@ Ce portfolio reflète mes projets, mes méthodes et ma façon d'aborder les prob
 ### 🔹 [Nom du projet 1](https://github.com/ton-username/projet-1)
 *Description du projet*  — **Suivi de l'Absentéisme au Travail.**
 
-Ce projet vise à offrir aux entreprises un outil complet de pilotage de l'absentéisme de leurs collaborateurs. Les données RH sont collectées automatiquement via les flux DSN (Déclaration Sociale Nominative), puis traitées par un moteur de calcul dédié pour en extraire les informations pertinentes.
-Une phase de nettoyage et d'analyse statistique est réalisée sous R et SAS afin de garantir la fiabilité et la cohérence des données. Les résultats sont ensuite exposés au travers d'une application de visualisation interactive développée sur SAS Viya, partagée directement avec les clients.
-Cette application permet de suivre en temps réel des indicateurs clés tels que le taux d'absentéisme, la durée moyenne des absences et le coût moyen, déclinés selon toutes les cibles et variables stratégiques de l'entreprise (département, catégorie socioprofessionnelle, motif d'absence, période, etc.).
+*Ce projet a pour ambition de doter les entreprises d'une solution complète de pilotage de l'absentéisme. Les données RH sont automatiquement collectées via les flux DSN (Déclaration Sociale Nominative) et traitées par un moteur de calcul dédié, garantissant une extraction précise et structurée de l'information.
+
+Les données passent ensuite par une phase de nettoyage et d'analyse statistique sous R et SAS, assurant leur fiabilité et leur cohérence avant exploitation. Une fois consolidés, les résultats alimentent une application de visualisation interactive conçue sur SAS Viya, mise à disposition des clients pour un suivi mensuel personnalisé.
+
+Grâce à cette application, les entreprises disposent d'une vision claire et actualisée de leurs indicateurs clés — taux d'absentéisme, durée moyenne des absences, coût moyen — ventilés selon les dimensions stratégiques qui leur sont propres : département, catégorie socioprofessionnelle, motif d'absence, période, et bien d'autres variables.*
 
 *Tech :* `R` `SAS guide` `SAS Viya`  
 **En résumé:** De la collecte DSN à la restitution visuelle, ce projet couvre toute la chaîne de valeur de la donnée RH pour transformer l'absentéisme en levier de pilotage.
