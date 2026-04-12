@@ -8,8 +8,8 @@
 
 ## 🧠 À propos de moi
 
-- 🎓 Diplômé en **[Ton diplôme]** — *[Ton école / université]* ([2020])
-- 💼 Actuellement **[Ton poste]** chez *[Ton entreprise]* (ou en recherche d'opportunités)
+- 🎓 Diplômé en Ingénierie mathématiques et statistiques actuarielles — Aix Marseille université - 2020
+- 💼 Actuellement Chargé d'étude actuarielle  chez April Santé Prévoyance 
 - 📊 Spécialisé en **modélisation actuarielle**, **analyse de données** et **reporting**
 - 🌱 En cours d'apprentissage : **[ex. Machine Learning appliqué, Solvabilité II, etc.]**
 - 📫 Me contacter : [ton@email.com](mailto:ton@email.com)
