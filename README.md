@@ -8,7 +8,7 @@
 
 ## 🧠 À propos de moi
 
-- 🎓 Diplômé en **[Ton diplôme]** — *[Ton école / université]* ([Année])
+- 🎓 Diplômé en **[Ton diplôme]** — *[Ton école / université]* ([2020])
 - 💼 Actuellement **[Ton poste]** chez *[Ton entreprise]* (ou en recherche d'opportunités)
 - 📊 Spécialisé en **modélisation actuarielle**, **analyse de données** et **reporting**
 - 🌱 En cours d'apprentissage : **[ex. Machine Learning appliqué, Solvabilité II, etc.]**
