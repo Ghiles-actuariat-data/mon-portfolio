@@ -37,7 +37,7 @@
 
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
 ![R](https://img.shields.io/badge/R-0D1117?style=for-the-badge&logo=r&logoColor=276DC3)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4479A1)
+![Snowflake]([https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4479A1](https://img.shields.io/badge/Snowflake-0D1117?style=for-the-badge&logo=snowflake&logoColor=29B5E8))
 ![SAS](https://img.shields.io/badge/SAS-0D1117?style=for-the-badge&logo=sas&logoColor=1572B6)
 ![Excel](https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoft-excel&logoColor=217346)
 ![Power BI](https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
