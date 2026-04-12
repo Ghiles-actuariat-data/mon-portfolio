@@ -1,22 +1,41 @@
-<div align="center">
-
-<!-- Banner animé -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,1a2744,243b6e&height=200&section=header&text=Ghiles%20AHRES&fontSize=52&fontColor=E8C97A&fontAlignY=38&desc=Actuaire%20%26%20Data%20Analyst&descAlignY=60&descColor=8BAFD4&animation=fadeIn" />
-
-<!-- Badges de contact -->
-<a href="mailto:ghiles.ahres@gmail.com">
-  <img src="https://img.shields.io/badge/ghiles.ahres@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=E8C97A"/>
-</a>
-<a href="https://www.linkedin.com/in/ghiles-ahres">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=E8C97A"/>
-</a>
-
-<br/><br/>
-
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=8BAFD4&center=true&vCenter=true&width=600&lines=Actuaire+%7C+Data+Analyst;Modélisation+des+risques+%26+Data+Science;Python+%7C+R+%7C+SQL+%7C+SAS;Tarification+%7C+Provisionnement+%7C+ML" alt="Typing SVG" />
-
-</div>
+  text-anchor="middle"
+    letter-spacing="4">ACTUAIRE  ·  DATA ANALYST</text>
+ 
+  <!-- Tags -->
+  <text x="214" y="158"
+    font-family="'Courier New', monospace"
+    font-size="11"
+    fill="#484f58"
+    text-anchor="middle">Python</text>
+  <text x="290" y="158"
+    font-family="'Courier New', monospace"
+    font-size="11"
+    fill="#484f58"
+    text-anchor="middle">R</text>
+  <text x="350" y="158"
+    font-family="'Courier New', monospace"
+    font-size="11"
+    fill="#484f58"
+    text-anchor="middle">SQL</text>
+  <text x="450" y="158"
+    font-family="'Courier New', monospace"
+    font-size="11"
+    fill="#484f58"
+    text-anchor="middle">Modélisation actuarielle</text>
+  <text x="570" y="158"
+    font-family="'Courier New', monospace"
+    font-size="11"
+    fill="#484f58"
+    text-anchor="middle">SAS</text>
+  <text x="626" y="158"
+    font-family="'Courier New', monospace"
+    font-size="11"
+    fill="#484f58"
+    text-anchor="middle">Machine Learning</text>
+ 
+  <!-- Bordure subtile -->
+  <rect width="900" height="200" fill="none" stroke="#21262d" stroke-width="1" rx="12"/>
+</svg>
 
 ---
 
