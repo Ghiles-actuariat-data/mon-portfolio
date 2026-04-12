@@ -31,7 +31,7 @@
 | 📉 Actuariat | Tarification, provisionnement, modèles de survie |
 | 📊 Data Analysis | Nettoyage, visualisation, reporting automatisé |
 | 🤖 Machine Learning | Régression, classification, clustering |
-| 📋 Réglementation | Solvabilité II, IFRS 17 |
+| 📋 Réglementation | Protection social |
 
 ---
 
