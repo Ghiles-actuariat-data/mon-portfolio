@@ -2,7 +2,9 @@
 
 ## 🎯 Actuaire & Data Analyst
 
-> *Passionné par la modélisation des risques, l'analyse de données et la data science appliquée à l'assurance et à la finance.*
+> *Je suis actuaire et data analyst, spécialisé dans la modélisation des risques et l'exploitation de données complexes pour éclairer la prise de décision. Formé aux fondements mathématiques et statistiques de l'actuariat, j'applique ces méthodes rigoureuses à des problématiques concrètes : tarification, provisionnement, analyse de sinistralité et modélisation prédictive.
+À l'intersection des sciences actuarielles et de la data science, je mobilise des outils comme Python, R ou SQL pour transformer des volumes de données brutes en insights actionnables. Mon approche est résolument analytique : chaque modèle est construit pour être interprétable, robuste et aligné sur les contraintes métier.
+Ce portfolio reflète mes projets, mes méthodes et ma façon d'aborder les problèmes quantitatifs — avec rigueur, précision et une attention constante à la fiabilité des résultats.*
 
 ---
 
