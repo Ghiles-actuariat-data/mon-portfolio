@@ -13,10 +13,7 @@
 
 <br/><br/>
 
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=8BAFD4&center=true&vCenter=true&width=600&lines=Actuaire+%7C+Data+Analyst;Modélisation+des+risques+%26+Data+Science;Python+%7C+R+%7C+SQL+%7C+SAS;Tarification+%7C+Provisionnement+%7C+ML" alt="Typing SVG" />
 
-</div>
 
 ---
 
