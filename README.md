@@ -11,8 +11,7 @@
 - 🎓 Diplômé en Ingénierie mathématiques et statistiques actuarielles — Aix Marseille université - 2020
 - 💼 Actuellement Chargé d'étude actuarielle  chez April Santé Prévoyance 
 - 📊 Spécialisé en **modélisation actuarielle**, **analyse de données** et **reporting**
-- 🌱 En cours d'apprentissage : **[ex. Machine Learning appliqué, Solvabilité II, etc.]**
-- 📫 Me contacter : [ton@email.com](mailto:ton@email.com)
+- 📫 Me contacter : ghiles.ahres@gmail.com)
 
 ---
 
