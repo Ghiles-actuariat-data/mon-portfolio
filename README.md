@@ -47,8 +47,8 @@ Grâce à cette application, les entreprises disposent d'une vision claire et ac
 
 
 
-*Tech :* `R` `SAS guide` `SAS Viya`  
-*En résumé:* De la collecte DSN à la restitution visuelle, ce projet couvre toute la chaîne de valeur de la donnée RH pour transformer l'absentéisme en levier de pilotage.
+*Tech:*  `R` `SAS guide` `SAS Viya`  
+*En résumé:*  De la collecte DSN à la restitution visuelle, ce projet couvre toute la chaîne de valeur de la donnée RH pour transformer l'absentéisme en levier de pilotage.
 ---
 
 ### 🔹 [Nom du projet 2](https://github.com/ton-username/projet-2)
