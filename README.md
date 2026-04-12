@@ -44,10 +44,10 @@ Ce portfolio reflète mes projets, mes méthodes et ma façon d'aborder les prob
 > *Ce projet a pour ambition de doter les entreprises d'une solution complète de pilotage de l'absentéisme. Les données RH sont automatiquement collectées via les flux DSN (Déclaration Sociale Nominative) et traitées par un moteur de calcul dédié, garantissant une extraction précise et structurée de l'information.
 Les données passent ensuite par une phase de nettoyage et d'analyse statistique sous R et SAS, assurant leur fiabilité et leur cohérence avant exploitation. Une fois consolidés, les résultats alimentent une application de visualisation interactive conçue sur SAS Viya, mise à disposition des clients pour un suivi mensuel personnalisé.
 Grâce à cette application, les entreprises disposent d'une vision claire et actualisée de leurs indicateurs clés — taux d'absentéisme, durée moyenne des absences, coût moyen — ventilés selon les dimensions stratégiques qui leur sont propres : département, catégorie socioprofessionnelle, motif d'absence, période, et bien d'autres variables.*
----
+--
 *Tech:*  `R` `SAS guide` `SAS Viya`  
----
-*En résumé:*  De la collecte DSN à la restitution visuelle, ce projet couvre toute la chaîne de valeur de la donnée RH pour transformer l'absentéisme en levier de pilotage.
+--
+*En résumé:*  *De la collecte DSN à la restitution visuelle, ce projet couvre toute la chaîne de valeur de la donnée RH pour transformer l'absentéisme en levier de pilotage*.
 ---
 
 ### 🔹 [Nom du projet 2](https://github.com/ton-username/projet-2)
