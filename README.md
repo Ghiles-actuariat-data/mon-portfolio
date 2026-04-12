@@ -76,11 +76,11 @@ Flux DSN  ──►  Extraction & Structuration  ──►  Nettoyage & Analyse 
 ```
 
 **Résultats clés :**
- Extraction précise des données via les flux DSN (Déclaration Sociale Nominative)
- Nettoyage et analyse statistique rigoureux sous **R** et **SAS Guide**
- Application interactive sur **SAS Viya** pour un suivi mensuel client
- KPIs disponibles : taux d'absentéisme · durée moyenne · coût moyen
- Dimensions d'analyse : département · CSP · motif · période
+- Extraction précise des données via les flux DSN (Déclaration Sociale Nominative)
+- Nettoyage et analyse statistique rigoureux sous **R** et **SAS Guide**
+- Application interactive sur **SAS Viya** pour un suivi mensuel client
+- KPIs disponibles : taux d'absentéisme · durée moyenne · coût moyen
+- Dimensions d'analyse : département · CSP · motif · période
 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SAS Guide](https://img.shields.io/badge/SAS_Guide-1572B6?style=flat-square)
