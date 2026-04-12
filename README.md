@@ -40,10 +40,10 @@ Ce portfolio reflète mes projets, mes méthodes et ma façon d'aborder les prob
 ## 📁 Projets
 
 ### 🔹 [Nom du projet 1](https://github.com/ton-username/projet-1)
-> **Description courte du projet** — ex. Modèle de tarification en assurance non-vie avec Python.
+> **Description du projet** — Suivi de l'Absentéisme au Travail.
 
 **Tech :** `Python` `scikit-learn` `pandas`  
-**Points clés :** [Ce que tu as fait / appris]
+**En résumé:** [Ce que tu as fait / appris]
 
 ---
 
