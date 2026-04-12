@@ -40,7 +40,7 @@ Ce portfolio reflète mes projets, mes méthodes et ma façon d'aborder les prob
 ## 📁 Projets
 
 ### 🔹 [Nom du projet 1](https://github.com/ton-username/projet-1)
-> **Description du projet** — ##Suivi de l'Absentéisme au Travail.
+> **Description du projet** — **Suivi de l'Absentéisme au Travail.**
 
 **Tech :** `Python` `scikit-learn` `pandas`  
 **En résumé:** [Ce que tu as fait / appris]
