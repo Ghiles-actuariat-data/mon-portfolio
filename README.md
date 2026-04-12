@@ -1,4 +1,4 @@
-##👋 Bonjour, je suis **Ghiles AHRES**
+👋 Bonjour, je suis **Ghiles AHRES**
 
 # 🎯 Actuaire & Data Analyst
 
