@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
  
 <!-- Banner animé -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,1a2744,243b6e&height=200&section=header&text=Ghiles%20AHRES&fontSize=52&fontColor=E8C97A&fontAlignY=38&desc=Actuaire%20%26%20Data%20Analyst&descAlignY=60&descColor=8BAFD4&animation=fadeIn" />
