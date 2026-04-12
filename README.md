@@ -22,10 +22,10 @@
 > Actuaire et data analyst spécialisé dans la **modélisation des risques** et l'exploitation de données complexes.
 > Mon approche est résolument analytique : chaque modèle est construit pour être **interprétable**, **robuste** et aligné sur les contraintes métier.
 
- 🎓 **Diplômé** en Ingénierie Mathématiques & Statistiques Actuarielles — *Aix-Marseille Université, 2020*
- 💼 **Actuellement** Chargé d'Études Actuarielles @ **April Santé Prévoyance**
- 📊 Spécialisé en **modélisation actuarielle**, **analyse de données** et **reporting**
- 📫 **Contact :** [ghiles.ahres@gmail.com](mailto:ghiles.ahres@gmail.com)
+ -🎓 **Diplômé** en Ingénierie Mathématiques & Statistiques Actuarielles — *Aix-Marseille Université, 2020*
+ -💼 **Actuellement** Chargé d'Études Actuarielles @ **April Santé Prévoyance**
+ -📊 Spécialisé en **modélisation actuarielle**, **analyse de données** et **reporting**
+ -📫 **Contact :** [ghiles.ahres@gmail.com](mailto:ghiles.ahres@gmail.com)
 
 ---
 
