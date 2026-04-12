@@ -22,10 +22,10 @@
 > Actuaire et data analyst spécialisé dans la **modélisation des risques** et l'exploitation de données complexes.
 > Mon approche est résolument analytique : chaque modèle est construit pour être **interprétable**, **robuste** et aligné sur les contraintes métier.
 
-- 🎓 **Diplômé** en Ingénierie Mathématiques & Statistiques Actuarielles — *Aix-Marseille Université, 2020*
-- 💼 **Actuellement** Chargé d'Études Actuarielles @ **April Santé Prévoyance**
-- 📊 Spécialisé en **modélisation actuarielle**, **analyse de données** et **reporting**
-- 📫 **Contact :** [ghiles.ahres@gmail.com](mailto:ghiles.ahres@gmail.com)
+ 🎓 **Diplômé** en Ingénierie Mathématiques & Statistiques Actuarielles — *Aix-Marseille Université, 2020*
+ 💼 **Actuellement** Chargé d'Études Actuarielles @ **April Santé Prévoyance**
+ 📊 Spécialisé en **modélisation actuarielle**, **analyse de données** et **reporting**
+ 📫 **Contact :** [ghiles.ahres@gmail.com](mailto:ghiles.ahres@gmail.com)
 
 ---
 
@@ -76,11 +76,11 @@ Flux DSN  ──►  Extraction & Structuration  ──►  Nettoyage & Analyse 
 ```
 
 **Résultats clés :**
-- Extraction précise des données via les flux DSN (Déclaration Sociale Nominative)
-- Nettoyage et analyse statistique rigoureux sous **R** et **SAS Guide**
-- Application interactive sur **SAS Viya** pour un suivi mensuel client
-- KPIs disponibles : taux d'absentéisme · durée moyenne · coût moyen
-- Dimensions d'analyse : département · CSP · motif · période
+ Extraction précise des données via les flux DSN (Déclaration Sociale Nominative)
+ Nettoyage et analyse statistique rigoureux sous **R** et **SAS Guide**
+ Application interactive sur **SAS Viya** pour un suivi mensuel client
+ KPIs disponibles : taux d'absentéisme · durée moyenne · coût moyen
+ Dimensions d'analyse : département · CSP · motif · période
 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SAS Guide](https://img.shields.io/badge/SAS_Guide-1572B6?style=flat-square)
