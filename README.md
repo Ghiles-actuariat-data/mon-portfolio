@@ -1,6 +1,6 @@
 #👋 Bonjour, je suis *Ghiles AHRES*
 
-## 🎯 Actuaire & Data Analyst
+# 🎯 Actuaire & Data Analyst
 
 > *Je suis actuaire et data analyst, spécialisé dans la modélisation des risques et l'exploitation de données complexes pour éclairer la prise de décision. Formé aux fondements mathématiques et statistiques de l'actuariat, j'applique ces méthodes rigoureuses à des problématiques concrètes : tarification, provisionnement, analyse de sinistralité et modélisation prédictive.
 À l'intersection des sciences actuarielles et de la data science, je mobilise des outils comme Python, R ou SQL pour transformer des volumes de données brutes en insights actionnables. Mon approche est résolument analytique : chaque modèle est construit pour être interprétable, robuste et aligné sur les contraintes métier.
