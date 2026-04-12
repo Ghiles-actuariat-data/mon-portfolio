@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis Ghiles AHRES
 
-### 🎯 Actuaire & Data Analyst
+## 🎯 Actuaire & Data Analyst
 
 > *Passionné par la modélisation des risques, l'analyse de données et la data science appliquée à l'assurance et à la finance.*
 
