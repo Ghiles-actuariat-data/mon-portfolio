@@ -13,8 +13,6 @@
 
 <br/><br/>
 
-
-
 ---
 
 ## 👤 À propos
@@ -37,7 +35,7 @@
 
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
 ![R](https://img.shields.io/badge/R-0D1117?style=for-the-badge&logo=r&logoColor=276DC3)
-![Snowflake](https://img.shields.io/badge/Snowflake-0D1117?style=for-the-badge&logo=snowflake&logoColor=29B5E8).
+![Snowflake](https://img.shields.io/badge/Snowflake-0D1117?style=for-the-badge&logo=snowflake&logoColor=29B5E8)
 ![SAS](https://img.shields.io/badge/SAS-0D1117?style=for-the-badge&logo=sas&logoColor=1572B6)
 ![Excel](https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoft-excel&logoColor=217346)
 ![Power BI](https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
@@ -71,7 +69,7 @@
 
 **Pipeline :**
 
-```
+```text
 Flux DSN  ──►  Extraction & Structuration  ──►  Nettoyage & Analyse (R / SAS)  ──►  Visualisation SAS Viya
 ```
 
@@ -88,6 +86,37 @@ Flux DSN  ──►  Extraction & Structuration  ──►  Nettoyage & Analyse 
 
 ---
 
+### 🔹 Analyse des Prestations Santé – Power BI
+
+> Construction de tableaux de bord interactifs pour le pilotage des prestations santé et l’analyse décisionnelle.
+
+**Objectif :** Transformer des données préparées et structurées en outils d’analyse interactifs permettant le suivi d’indicateurs métiers et temporels.
+
+**Pipeline :**
+
+```text
+Préparation Dataiku  ──►  Structuration & Nettoyage  ──►  Modélisation  ──►  Reporting & Datavisualisation
+```
+
+**Résultats clés :**
+- Construction d’indicateurs de pilotage santé
+- Création de mesures dynamiques
+- Mise en place de titres et visuels adaptatifs selon les filtres
+- Analyses temporelles avancées : N / N-1 / N-2
+- Tableaux de bord interactifs orientés décision métier
+- Segmentation des analyses : garanties · populations · catégories d’actes
+
+**Technologies utilisées :**
+- Préparation et transformation des données sous **Snowflake**
+- Modélisation et visualisation sous **Qlik sense**
+- Développement de logiques métiers et temporelles via **les fontions Qlik**
+
+![Snowflake](https://img.shields.io/badge/Snowflake-0D1117?style=for-the-badge&logo=snowflake&logoColor=29B5E8)
+![Qlik Sense](https://img.shields.io/badge/Qlik_Sense-0D1117?style=for-the-badge&logo=qlik&logoColor=52D726)
+
+
+---
+
 <div align="center">
 
 <!-- Stats GitHub -->
@@ -97,3 +126,5 @@ Flux DSN  ──►  Extraction & Structuration  ──►  Nettoyage & Analyse 
 </div>
 
 <img width="100%" src="banner.svg" />
+
+</div>
