@@ -117,6 +117,3 @@ Préparation Dataiku  ──►  Structuration & Nettoyage  ──►  Modélisa
 
 
 
-<img width="100%" src="banner.svg" />
-
-</div>
