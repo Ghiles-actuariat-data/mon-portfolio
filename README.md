@@ -15,15 +15,33 @@
 
 ---
 
+<div align="center">
+
+<!-- Banner SVG local -->
+<img width="100%" src="banner.svg" />
+
+<!-- Badges de contact -->
+<a href="mailto:ghiles.ahres@gmail.com">
+  <img src="https://img.shields.io/badge/ghiles.ahres@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=E8C97A"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ghiles-ahres">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=E8C97A"/>
+</a>
+
+<br/><br/>
+
+---
+
 ## 👤 À propos
 
-> Actuaire et data analyst spécialisé dans la **modélisation des risques** et l'exploitation de données complexes.
-> Mon approche est résolument analytique : chaque modèle est construit pour être **interprétable**, **robuste** et aligné sur les contraintes métier.
+> Actuaire et data analyst spécialisé dans la **modélisation des risques**, l’automatisation des processus actuariels et l’exploitation de données complexes en assurance et protection sociale.  
+> Mon approche est orientée **impact métier** : transformer la donnée en décisions fiables, interprétables et actionnables.
 
- - 🎓 **Diplômé** en Ingénierie Mathématiques & Statistiques Actuarielles — *Aix-Marseille Université, 2020*
- - 💼 **Actuellement** Chargé d'Études Actuarielles @ **April Santé Prévoyance**
- - 📊 Spécialisé en **modélisation actuarielle**, **analyse de données** et **reporting**
- - 📫 **Contact :** [ghiles.ahres@gmail.com](mailto:ghiles.ahres@gmail.com)
+- 🎓 Diplômé en Ingénierie Mathématiques & Statistiques Actuarielles — *Aix-Marseille Université (2020)*
+- 💼 Chargé d’Études Actuarielles @ **April Santé Prévoyance**
+- 📊 Spécialisé en modélisation actuarielle, data analysis et reporting décisionnel
+- 📫 Contact : [ghiles.ahres@gmail.com](mailto:ghiles.ahres@gmail.com)
 
 ---
 
@@ -35,25 +53,26 @@
 
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
 ![R](https://img.shields.io/badge/R-0D1117?style=for-the-badge&logo=r&logoColor=276DC3)
-![Snowflake](https://img.shields.io/badge/Snowflake-0D1117?style=for-the-badge&logo=snowflake&logoColor=29B5E8)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=336791)
 ![SAS](https://img.shields.io/badge/SAS-0D1117?style=for-the-badge&logo=sas&logoColor=1572B6)
-![Excel](https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoft-excel&logoColor=217346)
+![Snowflake](https://img.shields.io/badge/Snowflake-0D1117?style=for-the-badge&logo=snowflake&logoColor=29B5E8)
 ![Power BI](https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![Excel](https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoft-excel&logoColor=217346)
 
 </div>
 
 ---
 
-## 🎯 Domaines d'expertise
+## 🎯 Domaines d’expertise
 
 <div align="center">
 
 | | Domaine | Compétences clés |
 |:---:|:---|:---|
-| 📉 | **Actuariat** | Tarification · Provisionnement · Modèles de survie |
-| 📊 | **Data Analysis** | Nettoyage · Visualisation · Reporting automatisé |
-| 🤖 | **Machine Learning** | Régression · Classification · Clustering |
-| 📋 | **Réglementation** | Protection sociale |
+| 📉 | **Actuariat** | Tarification · Provisionnement · Modélisation du risque |
+| 📊 | **Data Analysis** | Exploration · Visualisation · Reporting automatisé |
+| 🤖 | **Modélisation statistique** | Régression · Segmentation · Analyse prédictive |
+| 🏥 | **Protection sociale** | Santé · Prévoyance · Analyse des prestations |
 
 </div>
 
@@ -61,59 +80,14 @@
 
 ## 📁 Projets
 
-### 🔹 Suivi de l'Absentéisme au Travail
+### 🔹 Suivi de l’Absentéisme au Travail
 
-> De la collecte DSN à la restitution visuelle — toute la chaîne de valeur de la donnée RH.
+> Pipeline end-to-end de valorisation de la donnée RH, de la collecte DSN à la restitution décisionnelle.
 
-**Objectif :** Doter les entreprises d'une solution complète de pilotage de l'absentéisme, de la collecte automatisée à la visualisation interactive.
+**🎯 Objectif :**  
+Construire un outil de pilotage de l’absentéisme permettant d’analyser les coûts, les tendances et les facteurs explicatifs.
 
-**Pipeline :**
-
-```text
-Flux DSN  ──►  Extraction & Structuration  ──►  Nettoyage & Analyse (R / SAS)  ──►  Visualisation SAS Viya
-```
-
-**Résultats clés :**
-- Extraction précise des données via les flux DSN (Déclaration Sociale Nominative)
-- Nettoyage et analyse statistique rigoureux sous **R** et **SAS Guide**
-- Application interactive sur **SAS Viya** pour un suivi mensuel client
-- KPIs disponibles : taux d'absentéisme · durée moyenne · coût moyen
-- Dimensions d'analyse : département · CSP · motif · période
-
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![SAS Guide](https://img.shields.io/badge/SAS_Guide-1572B6?style=flat-square)
-![SAS Viya](https://img.shields.io/badge/SAS_Viya-1572B6?style=flat-square)
-
----
-
-### 🔹 Analyse des Prestations Santé – Power BI
-
-> Construction de tableaux de bord interactifs pour le pilotage des prestations santé et l’analyse décisionnelle.
-
-**Objectif :** Transformer des données préparées et structurées en outils d’analyse interactifs permettant le suivi d’indicateurs métiers et temporels.
-
-**Pipeline :**
+**🔄 Pipeline :**
 
 ```text
-Préparation Dataiku  ──►  Structuration & Nettoyage  ──►  Modélisation  ──►  Reporting & Datavisualisation
-```
-
-**Résultats clés :**
-- Construction d’indicateurs de pilotage santé
-- Création de mesures dynamiques
-- Mise en place de titres et visuels adaptatifs selon les filtres
-- Analyses temporelles avancées : N / N-1 / N-2
-- Tableaux de bord interactifs orientés décision métier
-- Segmentation des analyses : garanties · populations · catégories d’actes
-
-**Technologies utilisées :**
-- Préparation et transformation des données sous **Snowflake**
-- Modélisation et visualisation sous **Qlik sense**
-- Développement de logiques métiers et temporelles via **les fontions Qlik**
-
-![Snowflake](https://img.shields.io/badge/Snowflake-0D1117?style=for-the-badge&logo=snowflake&logoColor=29B5E8)
-![Qlik Sense](https://img.shields.io/badge/Qlik_Sense-0D1117?style=for-the-badge&logo=qlik&logoColor=52D726)
-
-
-
-
+Flux DSN → Structuration → Nettoyage & analyse (R / SAS) → Restitution interactive (SAS Viya)
