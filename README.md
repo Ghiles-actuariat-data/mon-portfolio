@@ -80,20 +80,50 @@ Construire un outil de pilotage de l’absentéisme permettant d’analyser les 
 Flux DSN → Structuration → Nettoyage & analyse (R / SAS) → Restitution interactive (SAS Viya)
 ```
 
-## 🔹 Analyse des Prestations Santé – Dashboard décisionnel (Qlik Sense)
+<div align="center">
 
-> Conception et développement de tableaux de bord interactifs dédiés au pilotage des prestations santé et à l’analyse décisionnelle des dépenses.
+<!-- Banner -->
+<img width="100%" src="banner.svg" />
 
-**🎯 Objectif :**  
-Transformer des données de prestations santé structurées en outils d’analyse dynamiques permettant un suivi précis des indicateurs métiers, une lecture temporelle avancée et un support à la prise de décision.
+<!-- Contact -->
+<a href="mailto:ghiles.ahres@gmail.com">
+  <img src="https://img.shields.io/badge/email-0D1117?style=for-the-badge&logo=gmail&logoColor=E8C97A"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ghiles-ahres">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=E8C97A"/>
+</a>
+
+</div>
 
 ---
 
-**🔄 Chaîne de traitement (end-to-end) :**
+# 🔹 Analyse des Prestations Santé – Dashboard décisionnel (Qlik Sense / Power BI)
 
-```text
-Préparation des données (Snowflake)
-        ──► Structuration & nettoyage
-        ──► Modélisation des indicateurs métiers
-        ──► Reporting & datavisualisation (Qlik Sense)
+> Conception d’un dispositif de reporting interactif pour le pilotage des prestations santé, permettant une analyse fine des dépenses, des tendances et des comportements de consommation.
 
+---
+
+## 🎯 Objectif métier
+
+Mettre à disposition des équipes de gestion un **outil de pilotage décisionnel automatisé**, permettant :
+
+- le suivi des dépenses santé
+- l’analyse des dérives de consommation
+- la segmentation des populations
+- la comparaison temporelle des performances (N / N-1 / N-2)
+
+---
+
+## 🔄 Architecture du pipeline de données
+
+```text id="pipeline_qlik"
+Data sources (Snowflake / Dataiku)
+        ↓
+Nettoyage & structuration des données
+        ↓
+Modélisation des indicateurs métiers
+        ↓
+Construction du modèle Qlik
+        ↓
+Dashboard interactif (Qlik Sense)
