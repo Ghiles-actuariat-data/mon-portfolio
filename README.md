@@ -117,3 +117,10 @@ Dashboard interactif (Qlik Sense)
 </pre>
 
 </div>
+
+
+<div align="center">
+
+<!-- Banner SVG local -->
+<img width="100%" src="Dashbord.png" />
+
