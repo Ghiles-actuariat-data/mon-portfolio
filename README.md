@@ -78,3 +78,11 @@ Construire un outil de pilotage de l’absentéisme permettant d’analyser les 
 
 ```text
 Flux DSN → Structuration → Nettoyage & analyse (R / SAS) → Restitution interactive (SAS Viya)
+```
+
+
+
+🔹 Analyse des Prestations Santé – Power BI > Construction de tableaux de bord interactifs pour le pilotage des prestations santé et l’analyse décisionnelle. **Objectif :** Transformer des données préparées et structurées en outils d’analyse interactifs permettant le suivi d’indicateurs métiers et temporels. **Pipeline :**
+text
+Préparation Dataiku  ──►  Structuration & Nettoyage  ──►  Modélisation  ──►  Reporting & Datavisualisation
+**Résultats clés :** - Construction d’indicateurs de pilotage santé - Création de mesures dynamiques - Mise en place de titres et visuels adaptatifs selon les filtres - Analyses temporelles avancées : N / N-1 / N-2 - Tableaux de bord interactifs orientés décision métier - Segmentation des analyses : garanties · populations · catégories d’actes **Technologies utilisées :** - Préparation et transformation des données sous **Snowflake** - Modélisation et visualisation sous **Qlik sense** - Développement de logiques métiers et temporelles via **les fontions Qlik** ![Snowflake](https://img.shields.io/badge/Snowflake-0D1117?style=for-the-badge&logo=snowflake&logoColor=29B5E8) ![Qlik Sense](https://img.shields.io/badge/Qlik_Sense-0D1117?style=for-the-badge&logo=qlik&logoColor=52D726)
