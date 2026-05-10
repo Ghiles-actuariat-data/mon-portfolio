@@ -1,17 +1,4 @@
-<div align="center">
 
-<!-- Banner SVG local -->
-<img width="100%" src="banner.svg" />
-
-<!-- Badges de contact -->
-<a href="mailto:ghiles.ahres@gmail.com">
-  <img src="https://img.shields.io/badge/ghiles.ahres@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=E8C97A"/>
-</a>
-<a href="https://www.linkedin.com/in/ghiles-ahres">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=E8C97A"/>
-</a>
-
-<br/><br/>
 
 ---
 
