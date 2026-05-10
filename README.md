@@ -101,8 +101,10 @@ Mettre à disposition des équipes de gestion un **outil de pilotage décisionne
 ---
 
 ## 🔄 Architecture du pipeline de données
-<div align="center"> 
-```text id="pipeline_qlik"
+
+<div align="center">
+
+<pre>
 Data sources (Snowflake / Dataiku)
         ↓
 Nettoyage & structuration des données
@@ -112,3 +114,6 @@ Modélisation des indicateurs métiers
 Construction du modèle Qlik
         ↓
 Dashboard interactif (Qlik Sense)
+</pre>
+
+</div>
