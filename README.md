@@ -115,15 +115,7 @@ Préparation Dataiku  ──►  Structuration & Nettoyage  ──►  Modélisa
 ![Qlik Sense](https://img.shields.io/badge/Qlik_Sense-0D1117?style=for-the-badge&logo=qlik&logoColor=52D726)
 
 
----
 
-<div align="center">
-
-<!-- Stats GitHub -->
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ghiles-ahres&show_icons=true&theme=github_dark&hide_border=true&title_color=E8C97A&icon_color=8BAFD4&text_color=c9d1d9&bg_color=0d1117" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghiles-ahres&layout=compact&theme=github_dark&hide_border=true&title_color=E8C97A&text_color=c9d1d9&bg_color=0d1117" />
-
-</div>
 
 <img width="100%" src="banner.svg" />
 
