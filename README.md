@@ -82,7 +82,7 @@ Flux DSN → Structuration → Nettoyage & analyse (R / SAS) → Restitution int
 <div align="center">
 
 <!-- Banner SVG local -->
-<img width="100%" src="Dashbord abs.png" />
+<img width="100%" src="Dashbort abs.png" />
 
 
 
