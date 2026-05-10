@@ -79,7 +79,10 @@ Construire un outil de pilotage de l’absentéisme permettant d’analyser les 
 ```text
 Flux DSN → Structuration → Nettoyage & analyse (R / SAS) → Restitution interactive (SAS Viya)
 ```
+<div align="center">
 
+<!-- Banner SVG local -->
+<img width="100%" src="Dashbord abs.png" />
 
 
 
