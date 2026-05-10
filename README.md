@@ -80,23 +80,8 @@ Construire un outil de pilotage de l’absentéisme permettant d’analyser les 
 Flux DSN → Structuration → Nettoyage & analyse (R / SAS) → Restitution interactive (SAS Viya)
 ```
 
-<div align="center">
 
-<!-- Banner -->
-<img width="100%" src="banner.svg" />
 
-<!-- Contact -->
-<a href="mailto:ghiles.ahres@gmail.com">
-  <img src="https://img.shields.io/badge/email-0D1117?style=for-the-badge&logo=gmail&logoColor=E8C97A"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ghiles-ahres">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=E8C97A"/>
-</a>
-
-</div>
-
----
 
 # 🔹 Analyse des Prestations Santé – Dashboard décisionnel (Qlik Sense / Power BI)
 
@@ -116,7 +101,7 @@ Mettre à disposition des équipes de gestion un **outil de pilotage décisionne
 ---
 
 ## 🔄 Architecture du pipeline de données
-
+<div align="center"> 
 ```text id="pipeline_qlik"
 Data sources (Snowflake / Dataiku)
         ↓
