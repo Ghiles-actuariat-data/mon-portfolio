@@ -67,7 +67,7 @@
 
 ## 📁 Projets
 
-### 🔹 Suivi de l’Absentéisme au Travail
+# 🔹 Suivi de l’Absentéisme au Travail
 
 > Pipeline end-to-end de valorisation de la donnée RH, de la collecte DSN à la restitution décisionnelle.
 
