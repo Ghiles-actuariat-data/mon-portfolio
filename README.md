@@ -83,7 +83,7 @@ Flux DSN → Structuration → Nettoyage & analyse (R / SAS) → Restitution int
 
 
 
-# 🔹 Analyse des Prestations Santé – Dashboard décisionnel (Qlik Sense / Power BI)
+# 🔹 Analyse des Prestations Santé – Dashboard décisionnel (Qlik Sense )
 
 > Conception d’un dispositif de reporting interactif pour le pilotage des prestations santé, permettant une analyse fine des dépenses, des tendances et des comportements de consommation.
 
@@ -105,7 +105,7 @@ Mettre à disposition des équipes de gestion un **outil de pilotage décisionne
 <div align="center">
 
 <pre>
-Data sources (Snowflake / Dataiku)
+Data sources (Snowflake )
         ↓
 Nettoyage & structuration des données
         ↓
